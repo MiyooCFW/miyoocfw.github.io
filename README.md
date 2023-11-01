@@ -1,2 +1,2 @@
-# miyoocfw.github.io
-Main website for Miyoo CFW
+# Miyoo CFW
+Main website for Miyoo Custom Firmware _(Under Development)_
